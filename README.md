@@ -1,1 +1,4 @@
-# QA-automatin
+# QA-automation
+
+
+ npx playwright codegen
